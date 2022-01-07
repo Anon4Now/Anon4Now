@@ -1,5 +1,3 @@
-# Hello!
-
 ![96a1251dbda9712148bab005c5ae34e1](https://user-images.githubusercontent.com/80045938/148564253-86491b5e-426b-42c9-85a1-c1ed108c5cbf.gif)
 
 ##### Little About Me:
