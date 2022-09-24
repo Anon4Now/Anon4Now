@@ -10,5 +10,8 @@ A couple of goals for 2022:
 * Contribute to the security community through tools, connections, and research
 * Potentially start learning GoLang
 
+## Next Steps
 
-
+Navigate to the repo searchbar and type in any of the following topic tags:
+* blueteam
+* readteam
