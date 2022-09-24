@@ -12,7 +12,7 @@ A couple of goals for 2022:
 
 ## Next Steps
 
-Navigate to the repo searchbar and type in any of the following topic tags:
+Navigate to the repo searchbar and type in any of the following topic tags to filter for projects by classification:
 * blueteam
 * readteam
 
