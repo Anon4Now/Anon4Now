@@ -15,6 +15,7 @@ A couple of goals for 2022:
 Navigate to the repo searchbar and type in any of the following topic tags to filter for projects by classification:
 * blueteam
 * redteam
+* cloud-security
 
 Reference Image:
 ![repo-searchbar](https://user-images.githubusercontent.com/80045938/192075249-f05340e6-c7fb-4c2e-b88d-e4dfffd1559a.png)
